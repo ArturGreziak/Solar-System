@@ -1,0 +1,24 @@
+﻿@import '@nativescript/theme/css/core.css';
+@import '@nativescript/theme/css/default.css';
+
+/* .picker {
+    background-color: blanchedalmond;
+    color: red;
+    border-color: brown;
+    border-radius: 20;
+    border-width: 2;
+    width: 200;
+    height: 100;
+    vertical-align: middle;
+}*/
+
+Label {
+  font-size: 14px;
+  text-align:center;
+   color:#17afd4;
+   padding: 10px;
+}
+
+.lab {
+  font-size: 22px;
+}

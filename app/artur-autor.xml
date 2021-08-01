@@ -1,0 +1,15 @@
+<Page loaded="myPageWasLoaded"> 
+   <Page.actionBar>
+      <ActionBar title="Strona o Autorze" />
+   </Page.actionBar>
+
+<FlexboxLayout flexDirection="column" width="414" height="700" >
+         <Image  src="~/logo192.png" width="414" height="244"></Image>
+         <Label class="lab" text="Artur Gręziak" width="40" height="32" />
+         <Label text="Lorem Ipsum is simply dummy text of the printing and 
+         industry's standard dummy text ever since the 1500s, when an unknown 
+         printer took a galley of type and scrambled it to make a type specimen 
+         book." width="340" color="#17afd4" textWrap="true"/>
+</FlexboxLayout>
+
+</Page>

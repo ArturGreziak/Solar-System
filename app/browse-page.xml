@@ -1,0 +1,8 @@
+<Page loaded="myPageWasLoaded"> 
+   <Page.actionBar>
+      <ActionBar title="browse-page" />
+   </Page.actionBar>
+
+
+
+   </Page>

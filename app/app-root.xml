@@ -1,0 +1,14 @@
+<Page loaded="myPageWasLoaded"> 
+   <Page.actionBar>
+      <ActionBar title="Sola System" />
+   </Page.actionBar>
+<TabView>
+    <TabViewItem title="Autor">
+        <Frame id="firstFrame" defaultPage="artur-autor" />
+    </TabViewItem>
+    <TabViewItem title="Solar system">
+        <Frame id="secondFrame" defaultPage="main-page" />
+    </TabViewItem>
+</TabView>
+
+</Page>

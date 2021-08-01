@@ -1,0 +1,58 @@
+<Page loaded="myPageWasLoaded"> 
+   <Page.actionBar>
+      <ActionBar title="Sola System" />
+   </Page.actionBar>
+   
+      <StackLayout orientation="vertical">
+         <StackLayout>
+         <Image  src="~/imge/solarsystem.jpg" width="414" height="244"   stretch="aspectFill"></Image>
+         </StackLayout>
+         <ScrollView orientation="vertical">
+         <StackLayout>
+        <Label  text="Ariel" tap="ariel" />
+        <Label  text="Callisto" tap="callisto" />
+        <Label  text="Ceres" tap="ceres" />
+        <Label  text="Charon" tap="charon" />
+        <Label  text="Deimos" tap="deimos" />
+        <Label  text="Dione" tap="dione" />
+        <Label  text="Earth" tap="earth" />
+        <Label  text="Enceladus" tap="enceladus" />
+        <Label  text="Epimetheus" tap="epimetheus" />
+        <Label  text="Europa" tap="europa" />
+        <Label  text="Helene" tap="helene" />
+        <Label  text="Hyperion" tap="hyperion" />
+        <Label  text="Iapetus" tap="iapetus" />
+        <Label  text="Ida" tap="ida" />
+        <Label  text="Io" tap="io" />
+        <Label  text="Janus" tap="janus" />
+        <Label  text="Jupiter" tap="jupiter" />
+        <Label  text="Mars" tap="mars" />
+        <Label  text="Mercury" tap="mercury" />
+        <Label  text="Mimas" tap="mimas" />
+        <Label  text="Miranda" tap="miranda" />
+        <Label  text="Moon" tap="moon" />
+        <Label  text="Neptune" tap="neptune" />
+        <Label  text="Oberon" tap="oberon" />
+        <Label  text="Pandora" tap="pandora" />
+        <Label  text="Phobos" tap="phobos" />
+        <Label  text="Phoebe" tap="phoebe" />
+        <Label  text="Pluton" tap="pluton" />
+        <Label  text="Prometheus" tap="prometheus" />
+        <Label  text="Proteus" tap="proteus" />
+        <Label  text="Rhea" tap="rhea" />
+        <Label  text="Saturn" tap="saturn" />
+        <Label  text="Solarystem" tap="solarystem" />
+        <Label  text="Sun" tap="sun" />
+        <Label  text="Tethys" tap="tethys" />
+        <Label  text="Titan" tap="titan" />
+        <Label  text="Umbrieel" tap="umbrieel" />
+        <Label  text="Uranus" tap="uranus" />
+        <Label  text="Venus" tap="venus" />
+        <Label  text="Vesta" tap="vesta" />
+        </StackLayout>
+        </ScrollView>
+    </StackLayout>
+
+    
+            
+</Page> 
