@@ -3,6 +3,9 @@
       <ActionBar title="Sola System" />
    </Page.actionBar>
 <TabView>
+    <TabViewItem title="Login">
+        <Frame id="irstFrame" defaultPage="login" />
+    </TabViewItem>
     <TabViewItem title="Autor">
         <Frame id="firstFrame" defaultPage="artur-autor" />
     </TabViewItem>

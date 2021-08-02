@@ -1,0 +1,13 @@
+<Page loaded="myPageWasLoaded"> 
+    <StackLayout>
+        <StackLayout>
+                <TextField hint="Username">
+        </StackLayout>
+
+        <StackLayout>
+            <TextField hint="Password" secure="true">
+        </StackLayout>
+
+        <Button text="Login"/>
+    </StackLayout>
+</Page>
